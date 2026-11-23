@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Второе зрение</string>
+    <string name="tile">Тьма</string>
+    <string name="widget">Шар: сколько до взгляда вдаль</string>
+</resources>

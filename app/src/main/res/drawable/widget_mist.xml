@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The mist over the orb: its alpha is set by the widget. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <gradient android:type="radial" android:gradientRadius="60%p" android:startColor="#FFE4E8F2" android:centerColor="#CCD9DEEA" android:endColor="#00D9DEEA" />
+</shape>
