@@ -2,10 +2,12 @@
 
 <h1 align="center">Second Sight</h1>
 
-<p align="center">Eye breaks, eye exercises and tales in a crystal orb.<br>
+<p align="center">Reminds you to rest your eyes from the screen, and turns the breaks into a tale.<br>
 <a href="https://bigdevwhale.github.io/stillcraft/apps/secondsight/">Website</a> · <a href="https://github.com/bigdevwhale/secondsight/releases/latest/download/SecondSight.apk">Download APK</a> · <a href="README.ru.md">Русский</a></p>
 
-High in the mountains, above the clouds, lives an old seer, and you are her apprentice. While you look at a screen, her crystal orb slowly fills with mist. When the mist gets thick, she calls you: time to look far away. Twenty seconds at the window and the orb is clear again, with a glimpse left inside. Gather six glimpses, cover your eyes with your palms for a minute in the dark, and the orb shows you a vision from a tale.
+The app counts how long you look at the screen and reminds you in time to rest your eyes: look far away, blink, sit with your eyes closed. So the breaks don't get boring, they're a game: an old seer's orb clouds over while you're on the phone, clears after a rest and shows you pictures from tales.
+
+You are the apprentice of a seer who lives high in the mountains. Twenty seconds of looking out of the window and her orb is clear again, with a glimpse left inside. Gather six glimpses, cover your eyes with your palms for a minute in the dark, and the orb shows you a picture from a tale.
 
 <p align="center">
 <img src="docs/screenshots/en/1-hall.png" width="200" alt="Pavilion">
